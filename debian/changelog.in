@@ -1,0 +1,5 @@
+haskell-signal (0.1.0.4-distro()1) distro(); urgency=medium
+
+  * Original https://git@github.com:Qinka/signal.git
+
+ -- Johann Lee <me@qinka.pro>  esyscmd(`date -R')

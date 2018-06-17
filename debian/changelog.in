@@ -1,4 +1,4 @@
-haskell-signal (0.1.0.4-distro()1) distro(); urgency=medium
+haskell-signal (0.1.0.4-distro()2) distro(); urgency=medium
 
   * Original https://git@github.com:Qinka/signal.git
 
